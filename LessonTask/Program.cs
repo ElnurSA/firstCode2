@@ -360,7 +360,7 @@
 
 //Console.WriteLine(result);
 
-int[] nums = { 3, 2, 6, 2, 9, 2 };
+//int[] nums = { 3, 2, 6, 2, 9, 2 };
 
 //for(int i = 0; i < nums.Length; i++)
 //{
@@ -393,3 +393,18 @@ int[] nums = { 3, 2, 6, 2, 9, 2 };
 //string date = DateTime.Now.ToString("MM-dd-yyyy HH:mm");
 
 //Console.WriteLine(date);
+
+//int[] nums = { 1, 4, 5, 8, 6, 3, };
+
+//int result = 1;
+
+//for (int i = 0; i < nums.Length; i++)
+//{
+//    if (nums[i] % 2 == 0)
+//    {
+//        result *= nums[i];
+//    }
+//}
+
+//Console.WriteLine(result);
+
